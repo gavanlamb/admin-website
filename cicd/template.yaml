@@ -20,7 +20,7 @@ Parameters:
     ServiceName:
         Type: String
         Description: Name of the service
-        Default: manage
+        Default: admin
     UserPoolId:
         Type: String
         Description: ID of the userpool to add a user pool client to
